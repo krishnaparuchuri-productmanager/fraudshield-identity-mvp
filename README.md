@@ -10,7 +10,7 @@
 ## Solution
 No-code MVP: Input phone/email/Aadhaar snippet → **AI/ML-powered risk score + prevention tips**. Built for speed/privacy.
 
-**Live Demo:** [Glide/Notion link]
+**Live Demo:** [Notion]
 
 ![Dashboard Screenshot](./images/dashboard.png)
 
