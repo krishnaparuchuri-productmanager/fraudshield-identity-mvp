@@ -45,7 +45,7 @@ No-code MVP: Input phone/email/Aadhaar snippet → **AI/ML-powered risk score + 
 - **v2:** Real API (Onfido?), UPI fraud alerts, ML model training.
 
 ## Artifacts
-- [User Interviews](.`docs/`docs/interviews.md`)
+- [User Interviews](`docs/interviews.md`)
 - [Sample AI Report](./images/report.png)
 - [Glide Template](https://glide.link/your-template)
 - [Test Cases + Accuracy Log](./docs/accuracy.md)
