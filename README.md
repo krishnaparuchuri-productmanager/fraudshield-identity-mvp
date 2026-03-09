@@ -11,8 +11,7 @@
 No-code MVP: Input phone/email/Aadhaar snippet → **AI/ML-powered risk score + prevention tips**. Built for speed/privacy.
 
 **Live Demo:** [Notion]
-
-![Dashboard]((https://www.notion.so/Fraud-Identity-Scans-31eda61263cf80bd84c1cbe8a94c7038?source=copy_link))
+((https://www.notion.so/Fraud-Identity-Scans-31eda61263cf80bd84c1cbe8a94c7038?source=copy_link))
 
 ## Features
 1. **AI Risk Scanner** (GPT + ML): Flags high-risk patterns (temp email, fraud signals).
