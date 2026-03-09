@@ -46,9 +46,9 @@ No-code MVP: Input phone/email/Aadhaar snippet → **AI/ML-powered risk score + 
 
 ## Artifacts
 - [User Interviews](`docs/interviews.md`)
-- [Sample AI Report](./images/report.png)
+- [Sample AI Report](`docs/docs/docs/sample-report.md)
 - [Glide Template](https://glide.link/your-template)
-- [Test Cases + Accuracy Log](./docs/accuracy.md)
+- [Test Cases + Accuracy Log](`docs/docs/accuracy.md)
 
 ---
 
