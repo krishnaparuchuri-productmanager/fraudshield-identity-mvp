@@ -30,7 +30,7 @@ No-code MVP: Input phone/email/Aadhaar snippet → **AI/ML-powered risk score + 
 - Polled 10 Hyderabad friends/fintech LinkedIn: 70% hit fraud; want proactive tool.
 - Teardown: Truecaller (contacts-only), govt portals (slow) → gap for personal AI.
 
-### Build (2 days)
+### Build
 - **Stack:** Glide (app UI), GPT (analysis), Google Sheets (DB), Zapier (AI pipeline).
 - **Tradeoffs:**
   | Tool | Pros | Cons | Pick |
