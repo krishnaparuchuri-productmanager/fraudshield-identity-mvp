@@ -24,7 +24,7 @@ No-code MVP: Input phone/email/Aadhaar snippet → **AI/ML-powered risk score + 
 - **Accuracy:** 82% on 50 test cases (manual eval).
 - **Privacy:** No data stored; edge-processed.
 
-## Process
+### Process
 
 ### Discovery
 - Polled 10 Hyderabad friends/fintech LinkedIn: 70% hit fraud; want proactive tool.
